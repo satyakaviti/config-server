@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to satyamBank accounts related prod APIs "
   contactDetails:
     name: "KavitiSatya - Product Owner"
-    email: "prodOwner@satyamBank.com"
+    email: "{cipher}6ad5ae0e4f84c5c05769eb2e3b354aadd21a621a672966a86d60921fb4a1bbfb9ef144870517f20f72929de088a9e14d"
   onCallSupport:
     - (+91) 9515777777
     - (+91) 203-0384
